@@ -23,7 +23,7 @@ jobs:
         node-version: 20
 
     - name: Install modules
-      run: npm install
+      run: yarn install
 
     - name: Run lint
-      run: npm run lint
+      run: yarn lint
