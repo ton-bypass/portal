@@ -1,8 +1,8 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import twaLogo from './assets/tapps.png'
+import { useState } from 'react';
+import reactLogo from './assets/react.svg';
+import twaLogo from './assets/tapps.png';
 // import viteLogo from '/vite.svg'
-import './App.css'
+import './App.css';
 
 import { TonConnectButton } from '@tonconnect/ui-react';
 import WebApp from '@twa-dev/sdk';
@@ -34,4 +34,4 @@ function App() {
     );
 }
 
-export default App
+export default App;
