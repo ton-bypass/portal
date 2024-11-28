@@ -450,17 +450,17 @@
     deepmerge "^4.2.2"
     ua-parser-js "^1.0.35"
 
-"@twa-dev/sdk@^6.7.1":
-  version "6.9.2"
-  resolved "https://registry.yarnpkg.com/@twa-dev/sdk/-/sdk-6.9.2.tgz#1c5a7569db954763bc191509c9d53ba2953a8b2e"
-  integrity sha512-xLqqtJfRtFyvM8arG8eoAtdY2GTdVzDdl64M3blHheY2OqON5QTG+WYUs5EZ+gPFXwxDxRCYTDbOJv1gycJqdA==
+"@twa-dev/sdk@^8.0.1":
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/@twa-dev/sdk/-/sdk-8.0.1.tgz#c34119c0822a2b5583a201ccd1e755efe39b55e1"
+  integrity sha512-mBR5dnAvSyRx7YGt/n0Owq1z8MsWhsuh76JD1abV0TZWHi6RQSPXBNAG0XMOMO7Vf5hsAwUTul+x54vf43Ku0A==
   dependencies:
-    "@twa-dev/types" "^6.9.0"
+    "@twa-dev/types" "^8.0.1"
 
-"@twa-dev/types@^6.9.0":
-  version "6.9.0"
-  resolved "https://registry.yarnpkg.com/@twa-dev/types/-/types-6.9.0.tgz#5f978e63dcb8ec507ae2b035774ff568c5ebb69a"
-  integrity sha512-hBkIuJgVtkLAPPhKsNfgyBpgS+15spzUScy5jgpfPJPqXPaaUVDTaWHbeEUU+lUgHmryeQjWyz+UjS7987Pyaw==
+"@twa-dev/types@^8.0.1":
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/@twa-dev/types/-/types-8.0.1.tgz#6a9d08b97f0acfa1bf00e0bc9083253eddb1a236"
+  integrity sha512-/m3KiULhI4fdeoI5K9Op9jFbmdPjxaAdrZBJ3BA1fS4lVmKCx9XuLTeumzYeuOW577eHAJWaZkcSpWBOss4Epw==
 
 "@types/babel__core@^7.20.5":
   version "7.20.5"
