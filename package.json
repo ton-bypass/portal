@@ -12,24 +12,24 @@
     "dependencies": {
         "@orbs-network/ton-access": "^2.3.3",
         "@tonconnect/ui-react": "^2.0.9",
-        "@twa-dev/sdk": "^6.7.1",
-        "axios": "^0.28.0",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
+        "@twa-dev/sdk": "^8.0.1",
+        "axios": "^1.7.9",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0",
         "ton": "^13.9.0",
         "ton-core": "^0.53.0",
         "ton-crypto": "^3.2.0"
     },
     "devDependencies": {
-        "@types/react": "^18.2.15",
-        "@types/react-dom": "^18.2.7",
-        "@typescript-eslint/eslint-plugin": "^6.0.0",
-        "@typescript-eslint/parser": "^6.0.0",
-        "@vitejs/plugin-react": "^4.0.3",
-        "eslint": "^8.45.0",
-        "eslint-plugin-react-hooks": "^4.6.0",
-        "eslint-plugin-react-refresh": "^0.4.3",
-        "typescript": "^5.0.2",
-        "vite": "^4.4.5"
+        "@types/react": "^19.0.2",
+        "@types/react-dom": "^19.0.2",
+        "@typescript-eslint/eslint-plugin": "^8.18.1",
+        "@typescript-eslint/parser": "^8.18.1",
+        "@vitejs/plugin-react": "^4.3.4",
+        "eslint": "^9.17.0",
+        "eslint-plugin-react-hooks": "^5.1.0",
+        "eslint-plugin-react-refresh": "^0.4.16",
+        "typescript": "^5.7.2",
+        "vite": "^6.0.4"
     }
 }
