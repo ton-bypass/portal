@@ -14,15 +14,15 @@
         "@tonconnect/ui-react": "^2.0.9",
         "@twa-dev/sdk": "^8.0.1",
         "axios": "^1.7.9",
-        "react": "^19.0.0",
-        "react-dom": "^19.0.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
         "ton": "^13.9.0",
         "ton-core": "^0.53.0",
         "ton-crypto": "^3.2.0"
     },
     "devDependencies": {
-        "@types/react": "^19.0.2",
-        "@types/react-dom": "^19.0.2",
+        "@types/react": "^18.2.0",
+        "@types/react-dom": "^18.2.0",
         "@typescript-eslint/eslint-plugin": "^8.18.1",
         "@typescript-eslint/parser": "^8.18.1",
         "@vitejs/plugin-react": "^4.3.4",
@@ -31,5 +31,8 @@
         "eslint-plugin-react-refresh": "^0.4.16",
         "typescript": "^5.7.2",
         "vite": "^6.0.4"
+    },
+    "resolutions": {
+      "esbuild": "0.24.0"
     }
 }
