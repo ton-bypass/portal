@@ -11,7 +11,7 @@ WebApp.ready();
 WebApp.requestFullscreen();
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
-    <TonConnectUIProvider manifestUrl={manifestUrl}>
-        <App />
-    </TonConnectUIProvider>
+  <TonConnectUIProvider manifestUrl={manifestUrl}>
+    <App />
+  </TonConnectUIProvider>
 );
