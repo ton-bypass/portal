@@ -8,6 +8,7 @@ import WebApp from '@twa-dev/sdk';
 const manifestUrl = 'https://raw.githubusercontent.com/ton-bypass/manifests/main/tonconnect.json';
 
 WebApp.ready();
+WebApp.requestFullscreen();
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
     <TonConnectUIProvider manifestUrl={manifestUrl}>
