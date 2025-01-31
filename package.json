@@ -22,7 +22,7 @@
         "ton-crypto": "^3.2.0"
     },
     "devDependencies": {
-        "@eslint/compat": "^1.2.5",
+        "@eslint/compat": "^1.2.6",
         "@eslint/eslintrc": "^3.2.0",
         "@eslint/js": "^9.17.0",
         "@types/react": "^18.2.0",
